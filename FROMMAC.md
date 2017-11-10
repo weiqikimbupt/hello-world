@@ -1,1 +1,1 @@
-hello, this is my first time push from my mac
+hello, this is my first time pushing from my mac
